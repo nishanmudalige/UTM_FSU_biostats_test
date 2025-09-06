@@ -1,4 +1,4 @@
-# UTM_FSU_Biostats
+# UTM_FSU_biostats_test
 UTM FSU Biostats Learning Resources
 
 Test line 1 by Nishan
