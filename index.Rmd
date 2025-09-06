@@ -1,0 +1,14 @@
+---
+title: "UTM FSU Biostats"
+author: "Nishan Mudalige"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+knit: bookdown::render_book
+documentclass: book
+description: "Bookdown hosted on github using bookdown::gitbook."
+---
+
+# Introduction {-}
+
+Text goes here
